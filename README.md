@@ -220,7 +220,7 @@ ORDER BY Revenue DESC;
 
 ### Executive Dashboard
 
-(Add Screenshot Here)
+(![Executive Dashboard](executive_dashboard.png))
 
 
 ---
