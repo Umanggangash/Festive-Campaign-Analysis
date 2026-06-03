@@ -1,0 +1,1001 @@
+Product_ID,Product_Name,Category,Brand,Price
+PR0001,T-Shirt,Clothing,Nike,2469
+PR0002,T-Shirt,Clothing,Boat,4765
+PR0003,Refrigerator,Home Appliances,Prestige,24571
+PR0004,Bluetooth Speaker,Electronics,Boat,8050
+PR0005,Microwave,Home Appliances,Bajaj,36955
+PR0006,Rice Bag,Grocery,Philips,685
+PR0007,Smart TV,Electronics,Philips,75986
+PR0008,Saree,Clothing,Samsung,1043
+PR0009,Laptop,Electronics,Bajaj,41767
+PR0010,Rice Bag,Grocery,Prestige,1217
+PR0011,Bluetooth Speaker,Electronics,Sony,8341
+PR0012,Refrigerator,Home Appliances,LG,18124
+PR0013,T-Shirt,Clothing,Bajaj,2242
+PR0014,LED Lights,Decoration,Samsung,6787
+PR0015,LED Lights,Decoration,LG,3176
+PR0016,Saree,Clothing,Samsung,1692
+PR0017,Microwave,Home Appliances,Nike,17422
+PR0018,LED Lights,Decoration,LG,3316
+PR0019,T-Shirt,Clothing,Prestige,2923
+PR0020,Microwave,Home Appliances,Philips,25406
+PR0021,Bluetooth Speaker,Electronics,Puma,68409
+PR0022,Microwave,Home Appliances,Boat,18864
+PR0023,Bluetooth Speaker,Electronics,Puma,11368
+PR0024,Laptop,Electronics,Prestige,52080
+PR0025,Saree,Clothing,Puma,2920
+PR0026,T-Shirt,Clothing,Nike,543
+PR0027,Saree,Clothing,LG,2794
+PR0028,Microwave,Home Appliances,Samsung,6292
+PR0029,Smart TV,Electronics,Sony,57916
+PR0030,Refrigerator,Home Appliances,Sony,17949
+PR0031,LED Lights,Decoration,LG,6615
+PR0032,Smart TV,Electronics,Philips,52590
+PR0033,Saree,Clothing,Prestige,917
+PR0034,Bluetooth Speaker,Electronics,Bajaj,26990
+PR0035,Rice Bag,Grocery,Philips,298
+PR0036,Laptop,Electronics,Samsung,22062
+PR0037,Bluetooth Speaker,Electronics,Sony,37084
+PR0038,Rice Bag,Grocery,Nike,1579
+PR0039,Microwave,Home Appliances,Tata,38505
+PR0040,Laptop,Electronics,Samsung,60359
+PR0041,Refrigerator,Home Appliances,Philips,38682
+PR0042,Refrigerator,Home Appliances,Bajaj,23414
+PR0043,Refrigerator,Home Appliances,Nike,8015
+PR0044,Saree,Clothing,Prestige,3623
+PR0045,Mixer Grinder,Home Appliances,Philips,27145
+PR0046,Laptop,Electronics,Tata,64551
+PR0047,Microwave,Home Appliances,LG,39982
+PR0048,Mixer Grinder,Home Appliances,Samsung,37148
+PR0049,Refrigerator,Home Appliances,Boat,21200
+PR0050,Microwave,Home Appliances,Prestige,17042
+PR0051,LED Lights,Decoration,Philips,3164
+PR0052,Rice Bag,Grocery,Philips,624
+PR0053,Rice Bag,Grocery,Puma,1967
+PR0054,Mixer Grinder,Home Appliances,Tata,39054
+PR0055,Saree,Clothing,Sony,1646
+PR0056,Bluetooth Speaker,Electronics,Puma,47417
+PR0057,T-Shirt,Clothing,Samsung,4112
+PR0058,Mixer Grinder,Home Appliances,Nike,22188
+PR0059,Mixer Grinder,Home Appliances,Boat,26027
+PR0060,Laptop,Electronics,Samsung,41348
+PR0061,T-Shirt,Clothing,Tata,2947
+PR0062,Smart TV,Electronics,Boat,39211
+PR0063,Saree,Clothing,Samsung,2171
+PR0064,Smart TV,Electronics,Sony,16422
+PR0065,Refrigerator,Home Appliances,Tata,8142
+PR0066,Microwave,Home Appliances,Samsung,31862
+PR0067,Refrigerator,Home Appliances,Tata,34528
+PR0068,Laptop,Electronics,Philips,49440
+PR0069,Laptop,Electronics,Nike,20450
+PR0070,LED Lights,Decoration,Prestige,6836
+PR0071,Smart TV,Electronics,Tata,74649
+PR0072,LED Lights,Decoration,Bajaj,5429
+PR0073,T-Shirt,Clothing,Bajaj,1458
+PR0074,Laptop,Electronics,LG,32146
+PR0075,Smart TV,Electronics,Prestige,51412
+PR0076,LED Lights,Decoration,Sony,1522
+PR0077,Saree,Clothing,Samsung,1457
+PR0078,Microwave,Home Appliances,Nike,18442
+PR0079,Smart TV,Electronics,Philips,43302
+PR0080,Microwave,Home Appliances,Sony,28346
+PR0081,LED Lights,Decoration,Philips,6978
+PR0082,Mixer Grinder,Home Appliances,Boat,16760
+PR0083,Bluetooth Speaker,Electronics,Sony,74775
+PR0084,Rice Bag,Grocery,Prestige,2359
+PR0085,Bluetooth Speaker,Electronics,Philips,21982
+PR0086,Smart TV,Electronics,Bajaj,64625
+PR0087,Smart TV,Electronics,Bajaj,30344
+PR0088,Microwave,Home Appliances,Sony,29415
+PR0089,Rice Bag,Grocery,Boat,1405
+PR0090,Rice Bag,Grocery,Philips,2949
+PR0091,Refrigerator,Home Appliances,Tata,28448
+PR0092,Smart TV,Electronics,Tata,59020
+PR0093,Bluetooth Speaker,Electronics,Philips,45626
+PR0094,Refrigerator,Home Appliances,Nike,9914
+PR0095,T-Shirt,Clothing,LG,3449
+PR0096,Refrigerator,Home Appliances,Tata,5549
+PR0097,T-Shirt,Clothing,LG,1526
+PR0098,LED Lights,Decoration,Samsung,5232
+PR0099,Microwave,Home Appliances,Sony,31398
+PR0100,Smart TV,Electronics,Tata,70552
+PR0101,Saree,Clothing,Sony,3436
+PR0102,Bluetooth Speaker,Electronics,Samsung,30164
+PR0103,T-Shirt,Clothing,Sony,3911
+PR0104,Refrigerator,Home Appliances,Puma,35861
+PR0105,LED Lights,Decoration,Tata,3179
+PR0106,Microwave,Home Appliances,Tata,23774
+PR0107,Bluetooth Speaker,Electronics,Samsung,69188
+PR0108,Smart TV,Electronics,LG,61168
+PR0109,T-Shirt,Clothing,Boat,4622
+PR0110,Microwave,Home Appliances,Puma,5027
+PR0111,T-Shirt,Clothing,Philips,3558
+PR0112,LED Lights,Decoration,Puma,1766
+PR0113,Bluetooth Speaker,Electronics,Puma,46363
+PR0114,T-Shirt,Clothing,LG,1178
+PR0115,Saree,Clothing,LG,1837
+PR0116,LED Lights,Decoration,LG,569
+PR0117,Microwave,Home Appliances,Prestige,13064
+PR0118,Microwave,Home Appliances,Nike,32229
+PR0119,Saree,Clothing,Sony,4176
+PR0120,LED Lights,Decoration,Tata,5694
+PR0121,Mixer Grinder,Home Appliances,Nike,4048
+PR0122,T-Shirt,Clothing,Bajaj,2666
+PR0123,Bluetooth Speaker,Electronics,Sony,10430
+PR0124,Mixer Grinder,Home Appliances,Boat,13372
+PR0125,Mixer Grinder,Home Appliances,LG,21405
+PR0126,Saree,Clothing,Samsung,655
+PR0127,Mixer Grinder,Home Appliances,Bajaj,4573
+PR0128,LED Lights,Decoration,Tata,388
+PR0129,Smart TV,Electronics,Nike,76022
+PR0130,Laptop,Electronics,Puma,10436
+PR0131,Laptop,Electronics,Boat,55542
+PR0132,Smart TV,Electronics,Prestige,55711
+PR0133,Mixer Grinder,Home Appliances,Samsung,22632
+PR0134,Saree,Clothing,Prestige,2803
+PR0135,Microwave,Home Appliances,Boat,16312
+PR0136,Saree,Clothing,Philips,3382
+PR0137,Mixer Grinder,Home Appliances,Prestige,7771
+PR0138,Mixer Grinder,Home Appliances,Tata,29940
+PR0139,Saree,Clothing,Nike,1329
+PR0140,T-Shirt,Clothing,Philips,756
+PR0141,Laptop,Electronics,Sony,36634
+PR0142,Microwave,Home Appliances,Boat,19076
+PR0143,Mixer Grinder,Home Appliances,Bajaj,37379
+PR0144,T-Shirt,Clothing,Tata,1855
+PR0145,Refrigerator,Home Appliances,Puma,10424
+PR0146,Mixer Grinder,Home Appliances,Prestige,34969
+PR0147,Refrigerator,Home Appliances,Nike,8655
+PR0148,LED Lights,Decoration,Bajaj,4695
+PR0149,Laptop,Electronics,Puma,43569
+PR0150,Rice Bag,Grocery,Sony,2911
+PR0151,Laptop,Electronics,LG,72353
+PR0152,T-Shirt,Clothing,Nike,2412
+PR0153,Smart TV,Electronics,Tata,55174
+PR0154,Bluetooth Speaker,Electronics,Puma,29356
+PR0155,LED Lights,Decoration,Philips,967
+PR0156,Microwave,Home Appliances,Nike,21985
+PR0157,T-Shirt,Clothing,LG,3737
+PR0158,Smart TV,Electronics,Philips,52836
+PR0159,Mixer Grinder,Home Appliances,Nike,10025
+PR0160,Smart TV,Electronics,Puma,49277
+PR0161,Refrigerator,Home Appliances,Philips,9744
+PR0162,Saree,Clothing,Nike,1235
+PR0163,Smart TV,Electronics,LG,33476
+PR0164,Laptop,Electronics,Boat,25051
+PR0165,Rice Bag,Grocery,Tata,748
+PR0166,Mixer Grinder,Home Appliances,Prestige,33958
+PR0167,Mixer Grinder,Home Appliances,Tata,35214
+PR0168,Saree,Clothing,Bajaj,2393
+PR0169,Saree,Clothing,Samsung,2152
+PR0170,LED Lights,Decoration,Boat,4288
+PR0171,Bluetooth Speaker,Electronics,Sony,72896
+PR0172,T-Shirt,Clothing,Nike,1518
+PR0173,Laptop,Electronics,LG,20663
+PR0174,Refrigerator,Home Appliances,LG,6228
+PR0175,T-Shirt,Clothing,Prestige,3226
+PR0176,T-Shirt,Clothing,Samsung,3290
+PR0177,Bluetooth Speaker,Electronics,Prestige,73183
+PR0178,Refrigerator,Home Appliances,Nike,36670
+PR0179,Bluetooth Speaker,Electronics,LG,77288
+PR0180,Microwave,Home Appliances,Bajaj,15286
+PR0181,Rice Bag,Grocery,LG,367
+PR0182,Refrigerator,Home Appliances,Bajaj,6995
+PR0183,Bluetooth Speaker,Electronics,Philips,36427
+PR0184,Rice Bag,Grocery,LG,2155
+PR0185,Microwave,Home Appliances,Bajaj,11338
+PR0186,Laptop,Electronics,Boat,60621
+PR0187,Rice Bag,Grocery,Tata,221
+PR0188,LED Lights,Decoration,Philips,5017
+PR0189,T-Shirt,Clothing,Boat,2792
+PR0190,Bluetooth Speaker,Electronics,Tata,34763
+PR0191,Refrigerator,Home Appliances,Bajaj,37569
+PR0192,Laptop,Electronics,LG,59357
+PR0193,Refrigerator,Home Appliances,Sony,6470
+PR0194,Bluetooth Speaker,Electronics,Tata,24192
+PR0195,T-Shirt,Clothing,Nike,4606
+PR0196,Bluetooth Speaker,Electronics,Sony,48266
+PR0197,Laptop,Electronics,Nike,33474
+PR0198,T-Shirt,Clothing,Boat,2943
+PR0199,Mixer Grinder,Home Appliances,Nike,16278
+PR0200,T-Shirt,Clothing,Bajaj,4971
+PR0201,Laptop,Electronics,Sony,60911
+PR0202,Bluetooth Speaker,Electronics,Prestige,52209
+PR0203,Rice Bag,Grocery,Bajaj,2208
+PR0204,Mixer Grinder,Home Appliances,Puma,28085
+PR0205,Microwave,Home Appliances,Nike,29579
+PR0206,Smart TV,Electronics,Bajaj,14322
+PR0207,Mixer Grinder,Home Appliances,Samsung,30667
+PR0208,LED Lights,Decoration,Philips,3920
+PR0209,Mixer Grinder,Home Appliances,Bajaj,24979
+PR0210,Rice Bag,Grocery,Sony,1920
+PR0211,Microwave,Home Appliances,LG,26577
+PR0212,T-Shirt,Clothing,Philips,1803
+PR0213,T-Shirt,Clothing,Bajaj,3832
+PR0214,Saree,Clothing,Nike,3357
+PR0215,LED Lights,Decoration,Boat,1364
+PR0216,Mixer Grinder,Home Appliances,Boat,14152
+PR0217,T-Shirt,Clothing,Bajaj,1902
+PR0218,Mixer Grinder,Home Appliances,Bajaj,11533
+PR0219,Bluetooth Speaker,Electronics,Philips,56959
+PR0220,Mixer Grinder,Home Appliances,Puma,31446
+PR0221,Bluetooth Speaker,Electronics,Tata,12549
+PR0222,LED Lights,Decoration,Sony,5922
+PR0223,Microwave,Home Appliances,Puma,24752
+PR0224,Rice Bag,Grocery,LG,1634
+PR0225,Smart TV,Electronics,Prestige,55792
+PR0226,LED Lights,Decoration,Puma,1881
+PR0227,Microwave,Home Appliances,Puma,18170
+PR0228,Smart TV,Electronics,Tata,56888
+PR0229,Bluetooth Speaker,Electronics,Prestige,40616
+PR0230,LED Lights,Decoration,Puma,2625
+PR0231,Rice Bag,Grocery,LG,583
+PR0232,Mixer Grinder,Home Appliances,Boat,38257
+PR0233,Refrigerator,Home Appliances,Samsung,9054
+PR0234,Bluetooth Speaker,Electronics,Nike,38254
+PR0235,Smart TV,Electronics,Tata,60099
+PR0236,Microwave,Home Appliances,Sony,30904
+PR0237,Rice Bag,Grocery,Bajaj,1030
+PR0238,Bluetooth Speaker,Electronics,Bajaj,7677
+PR0239,Bluetooth Speaker,Electronics,Nike,71514
+PR0240,Mixer Grinder,Home Appliances,Tata,33670
+PR0241,Refrigerator,Home Appliances,Philips,20907
+PR0242,LED Lights,Decoration,Puma,538
+PR0243,Bluetooth Speaker,Electronics,Samsung,32295
+PR0244,Microwave,Home Appliances,Tata,11614
+PR0245,Rice Bag,Grocery,Prestige,2004
+PR0246,Rice Bag,Grocery,Philips,1120
+PR0247,T-Shirt,Clothing,Tata,3420
+PR0248,Laptop,Electronics,Bajaj,30311
+PR0249,T-Shirt,Clothing,Prestige,4634
+PR0250,Microwave,Home Appliances,Samsung,11351
+PR0251,Mixer Grinder,Home Appliances,Samsung,21985
+PR0252,LED Lights,Decoration,Philips,478
+PR0253,Rice Bag,Grocery,Boat,2470
+PR0254,Smart TV,Electronics,Philips,57159
+PR0255,LED Lights,Decoration,Philips,3847
+PR0256,Laptop,Electronics,LG,55950
+PR0257,Rice Bag,Grocery,Tata,814
+PR0258,Rice Bag,Grocery,Boat,1509
+PR0259,Laptop,Electronics,LG,52592
+PR0260,Refrigerator,Home Appliances,Bajaj,5902
+PR0261,Bluetooth Speaker,Electronics,LG,30136
+PR0262,LED Lights,Decoration,Samsung,3112
+PR0263,LED Lights,Decoration,Philips,776
+PR0264,Laptop,Electronics,Bajaj,40387
+PR0265,T-Shirt,Clothing,Boat,3758
+PR0266,Bluetooth Speaker,Electronics,Nike,77557
+PR0267,Laptop,Electronics,Samsung,54141
+PR0268,Microwave,Home Appliances,Boat,32289
+PR0269,T-Shirt,Clothing,Nike,750
+PR0270,T-Shirt,Clothing,Nike,4254
+PR0271,Smart TV,Electronics,Sony,37156
+PR0272,Saree,Clothing,Bajaj,2324
+PR0273,Smart TV,Electronics,Samsung,55328
+PR0274,Rice Bag,Grocery,Nike,1643
+PR0275,Saree,Clothing,Bajaj,1839
+PR0276,LED Lights,Decoration,Bajaj,3620
+PR0277,T-Shirt,Clothing,Samsung,2883
+PR0278,Saree,Clothing,Sony,3624
+PR0279,Rice Bag,Grocery,Boat,1639
+PR0280,Microwave,Home Appliances,Tata,37652
+PR0281,Saree,Clothing,Boat,2617
+PR0282,Smart TV,Electronics,Puma,52235
+PR0283,Laptop,Electronics,Puma,33588
+PR0284,Saree,Clothing,Puma,4964
+PR0285,T-Shirt,Clothing,Prestige,2700
+PR0286,Laptop,Electronics,Philips,74670
+PR0287,Refrigerator,Home Appliances,LG,21816
+PR0288,Rice Bag,Grocery,Puma,1151
+PR0289,Mixer Grinder,Home Appliances,Nike,8517
+PR0290,Smart TV,Electronics,Samsung,57575
+PR0291,LED Lights,Decoration,Boat,6822
+PR0292,Rice Bag,Grocery,Bajaj,1270
+PR0293,Bluetooth Speaker,Electronics,Tata,21848
+PR0294,Refrigerator,Home Appliances,Bajaj,31238
+PR0295,LED Lights,Decoration,Prestige,1948
+PR0296,Laptop,Electronics,Samsung,26102
+PR0297,Mixer Grinder,Home Appliances,Nike,38229
+PR0298,Microwave,Home Appliances,Puma,6161
+PR0299,Laptop,Electronics,Puma,8526
+PR0300,Smart TV,Electronics,Boat,33123
+PR0301,Rice Bag,Grocery,Prestige,2744
+PR0302,T-Shirt,Clothing,Tata,1065
+PR0303,Laptop,Electronics,Prestige,24927
+PR0304,LED Lights,Decoration,Bajaj,6350
+PR0305,Rice Bag,Grocery,Prestige,2281
+PR0306,Laptop,Electronics,Nike,28009
+PR0307,T-Shirt,Clothing,Boat,640
+PR0308,Laptop,Electronics,Prestige,12964
+PR0309,Saree,Clothing,Samsung,2597
+PR0310,LED Lights,Decoration,Nike,919
+PR0311,Saree,Clothing,Prestige,1600
+PR0312,Smart TV,Electronics,Prestige,63300
+PR0313,Saree,Clothing,Tata,2105
+PR0314,T-Shirt,Clothing,Samsung,4712
+PR0315,Mixer Grinder,Home Appliances,Bajaj,38215
+PR0316,Smart TV,Electronics,Nike,32130
+PR0317,LED Lights,Decoration,Tata,4444
+PR0318,Refrigerator,Home Appliances,Sony,25346
+PR0319,LED Lights,Decoration,Samsung,4881
+PR0320,LED Lights,Decoration,Tata,5216
+PR0321,Saree,Clothing,Tata,3784
+PR0322,Microwave,Home Appliances,Bajaj,37424
+PR0323,LED Lights,Decoration,Bajaj,5015
+PR0324,LED Lights,Decoration,LG,5628
+PR0325,Microwave,Home Appliances,Puma,19818
+PR0326,Rice Bag,Grocery,Nike,2932
+PR0327,T-Shirt,Clothing,Puma,2946
+PR0328,Bluetooth Speaker,Electronics,Prestige,70656
+PR0329,Saree,Clothing,LG,3952
+PR0330,Saree,Clothing,Philips,4275
+PR0331,Microwave,Home Appliances,Nike,3462
+PR0332,Rice Bag,Grocery,Boat,1442
+PR0333,Saree,Clothing,Prestige,4624
+PR0334,Laptop,Electronics,Boat,22833
+PR0335,Bluetooth Speaker,Electronics,Sony,59070
+PR0336,Bluetooth Speaker,Electronics,Puma,52150
+PR0337,Microwave,Home Appliances,Sony,16698
+PR0338,Mixer Grinder,Home Appliances,Philips,19674
+PR0339,Microwave,Home Appliances,Puma,26998
+PR0340,Bluetooth Speaker,Electronics,Philips,55365
+PR0341,Refrigerator,Home Appliances,Puma,11756
+PR0342,T-Shirt,Clothing,LG,1026
+PR0343,Saree,Clothing,Sony,1069
+PR0344,Refrigerator,Home Appliances,Sony,19284
+PR0345,Laptop,Electronics,Boat,26064
+PR0346,Mixer Grinder,Home Appliances,Prestige,28715
+PR0347,Rice Bag,Grocery,Tata,1825
+PR0348,Saree,Clothing,Tata,2872
+PR0349,LED Lights,Decoration,Samsung,4890
+PR0350,Microwave,Home Appliances,Sony,16264
+PR0351,Refrigerator,Home Appliances,Sony,11857
+PR0352,LED Lights,Decoration,Samsung,1448
+PR0353,Bluetooth Speaker,Electronics,Samsung,70025
+PR0354,Smart TV,Electronics,Philips,26044
+PR0355,Mixer Grinder,Home Appliances,Sony,24976
+PR0356,Laptop,Electronics,Philips,31822
+PR0357,Microwave,Home Appliances,Philips,32558
+PR0358,Rice Bag,Grocery,Puma,1894
+PR0359,Refrigerator,Home Appliances,Bajaj,15483
+PR0360,Refrigerator,Home Appliances,Puma,20336
+PR0361,T-Shirt,Clothing,Puma,1934
+PR0362,Refrigerator,Home Appliances,Bajaj,38096
+PR0363,Laptop,Electronics,Samsung,21372
+PR0364,Refrigerator,Home Appliances,Prestige,9385
+PR0365,Smart TV,Electronics,Samsung,41229
+PR0366,Saree,Clothing,LG,2877
+PR0367,Laptop,Electronics,Bajaj,61274
+PR0368,Refrigerator,Home Appliances,Sony,17103
+PR0369,Microwave,Home Appliances,Samsung,39477
+PR0370,Laptop,Electronics,Tata,49434
+PR0371,T-Shirt,Clothing,Tata,717
+PR0372,Laptop,Electronics,Philips,54553
+PR0373,Laptop,Electronics,Sony,41844
+PR0374,Mixer Grinder,Home Appliances,Philips,30241
+PR0375,T-Shirt,Clothing,Puma,1460
+PR0376,Mixer Grinder,Home Appliances,Philips,8234
+PR0377,Refrigerator,Home Appliances,Nike,26169
+PR0378,Bluetooth Speaker,Electronics,Nike,49633
+PR0379,Saree,Clothing,Tata,2071
+PR0380,Laptop,Electronics,Prestige,57969
+PR0381,Mixer Grinder,Home Appliances,Tata,3532
+PR0382,Laptop,Electronics,LG,60337
+PR0383,Microwave,Home Appliances,LG,4002
+PR0384,Saree,Clothing,Puma,1870
+PR0385,T-Shirt,Clothing,Prestige,792
+PR0386,Bluetooth Speaker,Electronics,Puma,7419
+PR0387,Bluetooth Speaker,Electronics,Sony,49029
+PR0388,Mixer Grinder,Home Appliances,Boat,26404
+PR0389,Smart TV,Electronics,Bajaj,55351
+PR0390,Bluetooth Speaker,Electronics,Puma,6155
+PR0391,Smart TV,Electronics,LG,57714
+PR0392,Rice Bag,Grocery,Bajaj,1855
+PR0393,Bluetooth Speaker,Electronics,Sony,64312
+PR0394,Bluetooth Speaker,Electronics,Bajaj,73002
+PR0395,T-Shirt,Clothing,Tata,2007
+PR0396,Smart TV,Electronics,Sony,7883
+PR0397,Smart TV,Electronics,Bajaj,76607
+PR0398,T-Shirt,Clothing,LG,4653
+PR0399,Smart TV,Electronics,Samsung,25138
+PR0400,T-Shirt,Clothing,Boat,1203
+PR0401,Refrigerator,Home Appliances,Samsung,36629
+PR0402,Microwave,Home Appliances,Puma,13684
+PR0403,Laptop,Electronics,Boat,22933
+PR0404,Microwave,Home Appliances,Prestige,36298
+PR0405,Mixer Grinder,Home Appliances,LG,19766
+PR0406,Rice Bag,Grocery,Boat,1137
+PR0407,Saree,Clothing,Puma,3206
+PR0408,Saree,Clothing,Sony,4582
+PR0409,Saree,Clothing,Prestige,3296
+PR0410,Microwave,Home Appliances,Philips,10491
+PR0411,Smart TV,Electronics,Prestige,54778
+PR0412,T-Shirt,Clothing,Tata,2737
+PR0413,Microwave,Home Appliances,Tata,7987
+PR0414,Saree,Clothing,Philips,4592
+PR0415,T-Shirt,Clothing,Tata,2405
+PR0416,Refrigerator,Home Appliances,Nike,17800
+PR0417,Saree,Clothing,Prestige,1432
+PR0418,LED Lights,Decoration,Sony,6785
+PR0419,Mixer Grinder,Home Appliances,LG,11093
+PR0420,Rice Bag,Grocery,Tata,2933
+PR0421,Bluetooth Speaker,Electronics,Puma,46016
+PR0422,Refrigerator,Home Appliances,Puma,10447
+PR0423,T-Shirt,Clothing,Tata,1160
+PR0424,Bluetooth Speaker,Electronics,Samsung,55389
+PR0425,Refrigerator,Home Appliances,Boat,36498
+PR0426,T-Shirt,Clothing,Prestige,3328
+PR0427,Microwave,Home Appliances,LG,13140
+PR0428,Smart TV,Electronics,Sony,43708
+PR0429,LED Lights,Decoration,Boat,6007
+PR0430,Smart TV,Electronics,Tata,38326
+PR0431,Mixer Grinder,Home Appliances,Philips,21005
+PR0432,Rice Bag,Grocery,LG,758
+PR0433,Microwave,Home Appliances,Boat,18006
+PR0434,Refrigerator,Home Appliances,Samsung,25151
+PR0435,Mixer Grinder,Home Appliances,LG,4153
+PR0436,Mixer Grinder,Home Appliances,Samsung,5213
+PR0437,Microwave,Home Appliances,Philips,8166
+PR0438,Microwave,Home Appliances,Bajaj,37385
+PR0439,Rice Bag,Grocery,Boat,2813
+PR0440,Laptop,Electronics,Prestige,39658
+PR0441,Saree,Clothing,Philips,3827
+PR0442,Smart TV,Electronics,Prestige,30219
+PR0443,Bluetooth Speaker,Electronics,Prestige,52026
+PR0444,Smart TV,Electronics,Prestige,21274
+PR0445,T-Shirt,Clothing,Puma,3908
+PR0446,T-Shirt,Clothing,Prestige,1885
+PR0447,Refrigerator,Home Appliances,Samsung,6310
+PR0448,Bluetooth Speaker,Electronics,Bajaj,37417
+PR0449,Smart TV,Electronics,Boat,32363
+PR0450,Saree,Clothing,Puma,3826
+PR0451,Rice Bag,Grocery,LG,1244
+PR0452,Bluetooth Speaker,Electronics,Puma,41166
+PR0453,Bluetooth Speaker,Electronics,Sony,30483
+PR0454,LED Lights,Decoration,Puma,4109
+PR0455,Rice Bag,Grocery,Boat,2960
+PR0456,Microwave,Home Appliances,Prestige,33799
+PR0457,Refrigerator,Home Appliances,Sony,31961
+PR0458,Microwave,Home Appliances,Philips,4297
+PR0459,LED Lights,Decoration,Boat,5126
+PR0460,Saree,Clothing,Puma,1775
+PR0461,Saree,Clothing,Prestige,4455
+PR0462,Smart TV,Electronics,Puma,32229
+PR0463,Bluetooth Speaker,Electronics,Puma,54729
+PR0464,Mixer Grinder,Home Appliances,Samsung,39585
+PR0465,Saree,Clothing,Nike,3322
+PR0466,Refrigerator,Home Appliances,Sony,14903
+PR0467,Microwave,Home Appliances,Puma,26209
+PR0468,Smart TV,Electronics,Bajaj,67510
+PR0469,Mixer Grinder,Home Appliances,Nike,34680
+PR0470,Rice Bag,Grocery,Samsung,2214
+PR0471,Rice Bag,Grocery,Prestige,1932
+PR0472,Bluetooth Speaker,Electronics,Tata,23613
+PR0473,Mixer Grinder,Home Appliances,LG,10809
+PR0474,Mixer Grinder,Home Appliances,LG,39761
+PR0475,Smart TV,Electronics,Samsung,17719
+PR0476,Mixer Grinder,Home Appliances,Boat,7569
+PR0477,Laptop,Electronics,Philips,53786
+PR0478,T-Shirt,Clothing,Tata,2241
+PR0479,Laptop,Electronics,Tata,20169
+PR0480,Saree,Clothing,Nike,4531
+PR0481,Laptop,Electronics,Puma,49475
+PR0482,Laptop,Electronics,LG,62521
+PR0483,Smart TV,Electronics,Sony,14279
+PR0484,Mixer Grinder,Home Appliances,Nike,32076
+PR0485,LED Lights,Decoration,LG,4126
+PR0486,Laptop,Electronics,Nike,28370
+PR0487,Refrigerator,Home Appliances,LG,35935
+PR0488,Bluetooth Speaker,Electronics,Sony,20804
+PR0489,Rice Bag,Grocery,Prestige,1722
+PR0490,Mixer Grinder,Home Appliances,Samsung,29922
+PR0491,Rice Bag,Grocery,Nike,2064
+PR0492,Refrigerator,Home Appliances,Boat,24498
+PR0493,LED Lights,Decoration,Boat,3726
+PR0494,Saree,Clothing,Bajaj,2222
+PR0495,Microwave,Home Appliances,Puma,15195
+PR0496,Laptop,Electronics,Puma,31658
+PR0497,Bluetooth Speaker,Electronics,Samsung,47541
+PR0498,Mixer Grinder,Home Appliances,Puma,24745
+PR0499,Saree,Clothing,Tata,1479
+PR0500,Bluetooth Speaker,Electronics,Tata,17908
+PR0501,Mixer Grinder,Home Appliances,Sony,15075
+PR0502,Rice Bag,Grocery,Prestige,900
+PR0503,Laptop,Electronics,Nike,64350
+PR0504,Saree,Clothing,Sony,1006
+PR0505,Mixer Grinder,Home Appliances,Bajaj,17313
+PR0506,Saree,Clothing,Boat,1208
+PR0507,Mixer Grinder,Home Appliances,Nike,38812
+PR0508,Refrigerator,Home Appliances,Samsung,15883
+PR0509,Mixer Grinder,Home Appliances,Boat,32806
+PR0510,Laptop,Electronics,Philips,63713
+PR0511,Smart TV,Electronics,Bajaj,62749
+PR0512,Saree,Clothing,Sony,3575
+PR0513,Rice Bag,Grocery,Samsung,1792
+PR0514,Mixer Grinder,Home Appliances,LG,8086
+PR0515,Microwave,Home Appliances,Philips,22540
+PR0516,Saree,Clothing,Nike,1908
+PR0517,LED Lights,Decoration,Prestige,6268
+PR0518,Microwave,Home Appliances,Prestige,3889
+PR0519,Rice Bag,Grocery,Sony,1126
+PR0520,Rice Bag,Grocery,Philips,2904
+PR0521,LED Lights,Decoration,Samsung,2378
+PR0522,Laptop,Electronics,Sony,34880
+PR0523,Saree,Clothing,Sony,3341
+PR0524,LED Lights,Decoration,Bajaj,4501
+PR0525,Saree,Clothing,Boat,1838
+PR0526,Saree,Clothing,Philips,1310
+PR0527,Rice Bag,Grocery,Tata,1166
+PR0528,LED Lights,Decoration,Puma,4824
+PR0529,T-Shirt,Clothing,Prestige,1215
+PR0530,T-Shirt,Clothing,Bajaj,4908
+PR0531,T-Shirt,Clothing,Bajaj,897
+PR0532,Bluetooth Speaker,Electronics,Samsung,72703
+PR0533,Mixer Grinder,Home Appliances,Puma,39732
+PR0534,Mixer Grinder,Home Appliances,Boat,9902
+PR0535,Saree,Clothing,LG,1187
+PR0536,Rice Bag,Grocery,LG,2933
+PR0537,Bluetooth Speaker,Electronics,Nike,60611
+PR0538,T-Shirt,Clothing,Puma,2586
+PR0539,Laptop,Electronics,Tata,40465
+PR0540,Microwave,Home Appliances,Boat,26202
+PR0541,Laptop,Electronics,Puma,31737
+PR0542,Refrigerator,Home Appliances,Nike,37105
+PR0543,Microwave,Home Appliances,Boat,17461
+PR0544,LED Lights,Decoration,LG,399
+PR0545,Saree,Clothing,Puma,3146
+PR0546,Saree,Clothing,Boat,2090
+PR0547,Bluetooth Speaker,Electronics,Tata,61408
+PR0548,T-Shirt,Clothing,LG,3985
+PR0549,T-Shirt,Clothing,Philips,989
+PR0550,T-Shirt,Clothing,Puma,4260
+PR0551,Microwave,Home Appliances,Philips,19032
+PR0552,Microwave,Home Appliances,Bajaj,32637
+PR0553,Mixer Grinder,Home Appliances,LG,19399
+PR0554,Saree,Clothing,Samsung,3232
+PR0555,Saree,Clothing,Puma,601
+PR0556,T-Shirt,Clothing,LG,1372
+PR0557,Refrigerator,Home Appliances,Tata,32519
+PR0558,Refrigerator,Home Appliances,Puma,12259
+PR0559,Rice Bag,Grocery,Tata,514
+PR0560,Smart TV,Electronics,Puma,35085
+PR0561,LED Lights,Decoration,Sony,4023
+PR0562,Rice Bag,Grocery,Philips,1926
+PR0563,Bluetooth Speaker,Electronics,LG,32074
+PR0564,Microwave,Home Appliances,Puma,12512
+PR0565,Refrigerator,Home Appliances,Sony,35529
+PR0566,T-Shirt,Clothing,Samsung,3859
+PR0567,Laptop,Electronics,Samsung,6478
+PR0568,Mixer Grinder,Home Appliances,Bajaj,8595
+PR0569,Smart TV,Electronics,Bajaj,63873
+PR0570,Saree,Clothing,Bajaj,1007
+PR0571,Laptop,Electronics,LG,37761
+PR0572,Microwave,Home Appliances,Nike,20039
+PR0573,Microwave,Home Appliances,Sony,9173
+PR0574,Laptop,Electronics,Puma,37443
+PR0575,Mixer Grinder,Home Appliances,Puma,26896
+PR0576,Rice Bag,Grocery,Nike,1252
+PR0577,Saree,Clothing,Prestige,1251
+PR0578,Laptop,Electronics,Philips,12879
+PR0579,Smart TV,Electronics,Nike,32999
+PR0580,Smart TV,Electronics,Philips,26544
+PR0581,Microwave,Home Appliances,Puma,34172
+PR0582,Microwave,Home Appliances,Tata,20718
+PR0583,Microwave,Home Appliances,LG,5002
+PR0584,Rice Bag,Grocery,Samsung,1486
+PR0585,Bluetooth Speaker,Electronics,LG,70054
+PR0586,LED Lights,Decoration,Philips,1949
+PR0587,LED Lights,Decoration,Tata,3620
+PR0588,Bluetooth Speaker,Electronics,LG,36980
+PR0589,Microwave,Home Appliances,Bajaj,11485
+PR0590,Smart TV,Electronics,Nike,49626
+PR0591,Saree,Clothing,Boat,4135
+PR0592,Rice Bag,Grocery,Bajaj,959
+PR0593,Microwave,Home Appliances,Philips,4533
+PR0594,Laptop,Electronics,Philips,49653
+PR0595,Rice Bag,Grocery,Bajaj,415
+PR0596,Mixer Grinder,Home Appliances,Puma,22846
+PR0597,Refrigerator,Home Appliances,LG,22128
+PR0598,T-Shirt,Clothing,LG,2128
+PR0599,Smart TV,Electronics,Prestige,29221
+PR0600,Rice Bag,Grocery,LG,1854
+PR0601,Saree,Clothing,Nike,4599
+PR0602,Mixer Grinder,Home Appliances,Bajaj,8710
+PR0603,Saree,Clothing,LG,1466
+PR0604,Mixer Grinder,Home Appliances,Boat,31110
+PR0605,Microwave,Home Appliances,Bajaj,17276
+PR0606,LED Lights,Decoration,LG,396
+PR0607,LED Lights,Decoration,Prestige,5985
+PR0608,Rice Bag,Grocery,Nike,681
+PR0609,Smart TV,Electronics,Sony,49529
+PR0610,Microwave,Home Appliances,Nike,35460
+PR0611,Laptop,Electronics,Sony,62970
+PR0612,Microwave,Home Appliances,Bajaj,5134
+PR0613,Rice Bag,Grocery,Sony,1717
+PR0614,Mixer Grinder,Home Appliances,Boat,12610
+PR0615,Saree,Clothing,Philips,1477
+PR0616,Saree,Clothing,Puma,2943
+PR0617,Microwave,Home Appliances,Tata,29925
+PR0618,Bluetooth Speaker,Electronics,Nike,30644
+PR0619,Saree,Clothing,Prestige,3072
+PR0620,Refrigerator,Home Appliances,Tata,27072
+PR0621,Smart TV,Electronics,Samsung,17194
+PR0622,Laptop,Electronics,Philips,21553
+PR0623,LED Lights,Decoration,Sony,4861
+PR0624,Bluetooth Speaker,Electronics,Puma,75304
+PR0625,Smart TV,Electronics,Sony,48152
+PR0626,Refrigerator,Home Appliances,Boat,16658
+PR0627,Laptop,Electronics,Nike,18214
+PR0628,Laptop,Electronics,Boat,32816
+PR0629,Smart TV,Electronics,Philips,57139
+PR0630,Saree,Clothing,Puma,1123
+PR0631,Smart TV,Electronics,Sony,72166
+PR0632,T-Shirt,Clothing,LG,2274
+PR0633,Rice Bag,Grocery,Boat,1283
+PR0634,Saree,Clothing,LG,2859
+PR0635,Saree,Clothing,Tata,4328
+PR0636,T-Shirt,Clothing,Sony,1880
+PR0637,Saree,Clothing,Samsung,3562
+PR0638,Rice Bag,Grocery,LG,2903
+PR0639,Smart TV,Electronics,Nike,33511
+PR0640,Rice Bag,Grocery,Nike,722
+PR0641,Bluetooth Speaker,Electronics,Philips,5652
+PR0642,T-Shirt,Clothing,Prestige,1713
+PR0643,Rice Bag,Grocery,Puma,2786
+PR0644,Rice Bag,Grocery,LG,1731
+PR0645,Saree,Clothing,Boat,1982
+PR0646,Refrigerator,Home Appliances,Puma,13674
+PR0647,Microwave,Home Appliances,Samsung,15561
+PR0648,Microwave,Home Appliances,Tata,34217
+PR0649,LED Lights,Decoration,Sony,999
+PR0650,Laptop,Electronics,Boat,12330
+PR0651,T-Shirt,Clothing,Nike,4480
+PR0652,Saree,Clothing,Tata,4743
+PR0653,Laptop,Electronics,Philips,22123
+PR0654,Laptop,Electronics,Bajaj,25345
+PR0655,Rice Bag,Grocery,Boat,712
+PR0656,Mixer Grinder,Home Appliances,Boat,10453
+PR0657,T-Shirt,Clothing,Bajaj,752
+PR0658,LED Lights,Decoration,Nike,6353
+PR0659,Laptop,Electronics,Sony,26573
+PR0660,Laptop,Electronics,Tata,75123
+PR0661,Smart TV,Electronics,Sony,71679
+PR0662,Rice Bag,Grocery,Samsung,2144
+PR0663,T-Shirt,Clothing,Philips,2969
+PR0664,LED Lights,Decoration,Samsung,2295
+PR0665,Rice Bag,Grocery,Nike,813
+PR0666,Microwave,Home Appliances,Nike,8526
+PR0667,Laptop,Electronics,Philips,52676
+PR0668,Smart TV,Electronics,Bajaj,44841
+PR0669,Refrigerator,Home Appliances,Prestige,5210
+PR0670,Microwave,Home Appliances,Tata,18732
+PR0671,Rice Bag,Grocery,Prestige,725
+PR0672,Microwave,Home Appliances,Tata,6588
+PR0673,Microwave,Home Appliances,Bajaj,8876
+PR0674,Smart TV,Electronics,Philips,77946
+PR0675,Rice Bag,Grocery,Prestige,2439
+PR0676,LED Lights,Decoration,Tata,4660
+PR0677,Rice Bag,Grocery,Boat,1968
+PR0678,Saree,Clothing,Prestige,2963
+PR0679,Saree,Clothing,Prestige,3335
+PR0680,Saree,Clothing,Sony,2831
+PR0681,Refrigerator,Home Appliances,LG,35731
+PR0682,Microwave,Home Appliances,Tata,33108
+PR0683,Smart TV,Electronics,Sony,79938
+PR0684,Microwave,Home Appliances,Boat,30751
+PR0685,Rice Bag,Grocery,Sony,1102
+PR0686,Microwave,Home Appliances,Philips,30418
+PR0687,Microwave,Home Appliances,Puma,15130
+PR0688,Smart TV,Electronics,Samsung,76366
+PR0689,Rice Bag,Grocery,Bajaj,1321
+PR0690,Mixer Grinder,Home Appliances,Nike,18911
+PR0691,Mixer Grinder,Home Appliances,Sony,31372
+PR0692,Laptop,Electronics,Sony,26585
+PR0693,LED Lights,Decoration,Sony,4873
+PR0694,Laptop,Electronics,Nike,14030
+PR0695,Microwave,Home Appliances,Tata,34638
+PR0696,Bluetooth Speaker,Electronics,Puma,16695
+PR0697,T-Shirt,Clothing,Prestige,2928
+PR0698,Rice Bag,Grocery,Bajaj,773
+PR0699,Mixer Grinder,Home Appliances,LG,5489
+PR0700,Smart TV,Electronics,Bajaj,11270
+PR0701,LED Lights,Decoration,Philips,2294
+PR0702,Saree,Clothing,Sony,703
+PR0703,Bluetooth Speaker,Electronics,Sony,30095
+PR0704,LED Lights,Decoration,Boat,1234
+PR0705,Microwave,Home Appliances,Boat,21043
+PR0706,Smart TV,Electronics,Tata,45213
+PR0707,Smart TV,Electronics,Philips,53143
+PR0708,T-Shirt,Clothing,Boat,4670
+PR0709,Microwave,Home Appliances,Boat,6325
+PR0710,Smart TV,Electronics,Tata,58544
+PR0711,Laptop,Electronics,Boat,76735
+PR0712,LED Lights,Decoration,Samsung,6706
+PR0713,Laptop,Electronics,Prestige,5393
+PR0714,Refrigerator,Home Appliances,LG,3633
+PR0715,Laptop,Electronics,Boat,40182
+PR0716,Microwave,Home Appliances,Samsung,18582
+PR0717,Saree,Clothing,Puma,4907
+PR0718,T-Shirt,Clothing,Prestige,1944
+PR0719,LED Lights,Decoration,Samsung,346
+PR0720,Laptop,Electronics,Prestige,18452
+PR0721,Laptop,Electronics,Nike,51833
+PR0722,Mixer Grinder,Home Appliances,Bajaj,24953
+PR0723,Laptop,Electronics,Puma,72557
+PR0724,Bluetooth Speaker,Electronics,Puma,10058
+PR0725,Bluetooth Speaker,Electronics,Philips,66517
+PR0726,Rice Bag,Grocery,Boat,1408
+PR0727,LED Lights,Decoration,Samsung,6575
+PR0728,LED Lights,Decoration,Samsung,1502
+PR0729,Rice Bag,Grocery,Nike,796
+PR0730,Refrigerator,Home Appliances,Bajaj,35416
+PR0731,T-Shirt,Clothing,Nike,1021
+PR0732,Refrigerator,Home Appliances,Philips,16504
+PR0733,Mixer Grinder,Home Appliances,Nike,26537
+PR0734,Mixer Grinder,Home Appliances,LG,12276
+PR0735,Smart TV,Electronics,Boat,26888
+PR0736,Saree,Clothing,Boat,2995
+PR0737,Saree,Clothing,LG,2479
+PR0738,Smart TV,Electronics,Prestige,40750
+PR0739,Bluetooth Speaker,Electronics,Samsung,10559
+PR0740,Refrigerator,Home Appliances,Boat,16061
+PR0741,T-Shirt,Clothing,Boat,4002
+PR0742,LED Lights,Decoration,Puma,1425
+PR0743,Bluetooth Speaker,Electronics,Samsung,9144
+PR0744,Mixer Grinder,Home Appliances,Samsung,11076
+PR0745,Smart TV,Electronics,Sony,42571
+PR0746,Smart TV,Electronics,Bajaj,57955
+PR0747,Rice Bag,Grocery,Samsung,2114
+PR0748,Smart TV,Electronics,Bajaj,19243
+PR0749,Mixer Grinder,Home Appliances,Sony,27121
+PR0750,Saree,Clothing,Sony,4308
+PR0751,Rice Bag,Grocery,Tata,1649
+PR0752,Refrigerator,Home Appliances,Tata,39718
+PR0753,Rice Bag,Grocery,Boat,777
+PR0754,Bluetooth Speaker,Electronics,Boat,72816
+PR0755,Smart TV,Electronics,Philips,57083
+PR0756,LED Lights,Decoration,Samsung,752
+PR0757,Rice Bag,Grocery,Boat,2342
+PR0758,Microwave,Home Appliances,Nike,30864
+PR0759,Refrigerator,Home Appliances,Puma,19250
+PR0760,Mixer Grinder,Home Appliances,Prestige,7247
+PR0761,T-Shirt,Clothing,Samsung,4145
+PR0762,Laptop,Electronics,LG,74091
+PR0763,Microwave,Home Appliances,Boat,15055
+PR0764,Laptop,Electronics,Sony,34640
+PR0765,Mixer Grinder,Home Appliances,Sony,31865
+PR0766,Rice Bag,Grocery,Prestige,2139
+PR0767,Smart TV,Electronics,LG,59261
+PR0768,Rice Bag,Grocery,Tata,2633
+PR0769,Microwave,Home Appliances,LG,23955
+PR0770,LED Lights,Decoration,Puma,6865
+PR0771,Bluetooth Speaker,Electronics,Tata,21716
+PR0772,Microwave,Home Appliances,Samsung,21977
+PR0773,Saree,Clothing,Bajaj,3630
+PR0774,Microwave,Home Appliances,Philips,8127
+PR0775,Refrigerator,Home Appliances,Tata,31505
+PR0776,Rice Bag,Grocery,Tata,2459
+PR0777,T-Shirt,Clothing,Bajaj,3418
+PR0778,T-Shirt,Clothing,Samsung,882
+PR0779,Refrigerator,Home Appliances,Philips,6396
+PR0780,Rice Bag,Grocery,Samsung,2779
+PR0781,Saree,Clothing,Nike,3199
+PR0782,Refrigerator,Home Appliances,Nike,36666
+PR0783,Laptop,Electronics,Prestige,66164
+PR0784,Refrigerator,Home Appliances,Bajaj,20744
+PR0785,Saree,Clothing,Nike,1023
+PR0786,Saree,Clothing,Samsung,2158
+PR0787,LED Lights,Decoration,Sony,2817
+PR0788,Smart TV,Electronics,Nike,78395
+PR0789,Saree,Clothing,Boat,2837
+PR0790,LED Lights,Decoration,Bajaj,5609
+PR0791,Refrigerator,Home Appliances,Nike,15162
+PR0792,LED Lights,Decoration,Tata,4779
+PR0793,T-Shirt,Clothing,Samsung,3517
+PR0794,Rice Bag,Grocery,Samsung,2487
+PR0795,Microwave,Home Appliances,Sony,28616
+PR0796,Rice Bag,Grocery,Prestige,2460
+PR0797,Refrigerator,Home Appliances,Samsung,31544
+PR0798,Rice Bag,Grocery,Samsung,1330
+PR0799,Microwave,Home Appliances,Sony,10904
+PR0800,Smart TV,Electronics,LG,67536
+PR0801,Laptop,Electronics,LG,72195
+PR0802,Microwave,Home Appliances,Boat,17772
+PR0803,Bluetooth Speaker,Electronics,Samsung,58575
+PR0804,Microwave,Home Appliances,Tata,39356
+PR0805,Microwave,Home Appliances,Prestige,34578
+PR0806,T-Shirt,Clothing,Sony,2178
+PR0807,Microwave,Home Appliances,Puma,31528
+PR0808,T-Shirt,Clothing,Nike,1079
+PR0809,Smart TV,Electronics,Sony,19287
+PR0810,Microwave,Home Appliances,Bajaj,15022
+PR0811,Refrigerator,Home Appliances,Sony,38977
+PR0812,Microwave,Home Appliances,Sony,4533
+PR0813,Bluetooth Speaker,Electronics,Prestige,22278
+PR0814,Smart TV,Electronics,Tata,13640
+PR0815,Microwave,Home Appliances,Philips,32496
+PR0816,T-Shirt,Clothing,Sony,3862
+PR0817,Mixer Grinder,Home Appliances,Tata,11595
+PR0818,T-Shirt,Clothing,Samsung,2358
+PR0819,Microwave,Home Appliances,Sony,7549
+PR0820,T-Shirt,Clothing,LG,1777
+PR0821,Smart TV,Electronics,Puma,47456
+PR0822,Microwave,Home Appliances,Philips,36746
+PR0823,Refrigerator,Home Appliances,Puma,18230
+PR0824,Smart TV,Electronics,Sony,59454
+PR0825,Laptop,Electronics,Nike,71533
+PR0826,Refrigerator,Home Appliances,Puma,28724
+PR0827,Microwave,Home Appliances,Prestige,4228
+PR0828,T-Shirt,Clothing,Nike,755
+PR0829,Laptop,Electronics,Samsung,10269
+PR0830,T-Shirt,Clothing,Samsung,2720
+PR0831,LED Lights,Decoration,Prestige,5877
+PR0832,T-Shirt,Clothing,Puma,1035
+PR0833,Refrigerator,Home Appliances,Sony,9044
+PR0834,Saree,Clothing,Nike,4673
+PR0835,Bluetooth Speaker,Electronics,Boat,33999
+PR0836,Saree,Clothing,Philips,1206
+PR0837,Rice Bag,Grocery,Sony,1646
+PR0838,Rice Bag,Grocery,Sony,641
+PR0839,Smart TV,Electronics,Prestige,51775
+PR0840,Mixer Grinder,Home Appliances,Philips,34171
+PR0841,T-Shirt,Clothing,Prestige,2925
+PR0842,Saree,Clothing,Sony,1308
+PR0843,Smart TV,Electronics,Puma,55095
+PR0844,Refrigerator,Home Appliances,Boat,14628
+PR0845,Microwave,Home Appliances,Sony,14371
+PR0846,T-Shirt,Clothing,Boat,1326
+PR0847,Smart TV,Electronics,Bajaj,43940
+PR0848,Bluetooth Speaker,Electronics,Puma,36507
+PR0849,Bluetooth Speaker,Electronics,LG,35307
+PR0850,Mixer Grinder,Home Appliances,LG,14345
+PR0851,Microwave,Home Appliances,Tata,32723
+PR0852,Mixer Grinder,Home Appliances,Puma,19078
+PR0853,Smart TV,Electronics,LG,27231
+PR0854,Mixer Grinder,Home Appliances,Philips,30700
+PR0855,Mixer Grinder,Home Appliances,Nike,36316
+PR0856,Microwave,Home Appliances,Puma,8320
+PR0857,Refrigerator,Home Appliances,Bajaj,29316
+PR0858,Saree,Clothing,Philips,1307
+PR0859,Microwave,Home Appliances,Tata,36233
+PR0860,Laptop,Electronics,Puma,55905
+PR0861,Smart TV,Electronics,Bajaj,73883
+PR0862,Microwave,Home Appliances,Bajaj,33844
+PR0863,Refrigerator,Home Appliances,Prestige,37854
+PR0864,Smart TV,Electronics,Prestige,23896
+PR0865,Mixer Grinder,Home Appliances,Nike,13517
+PR0866,Smart TV,Electronics,Prestige,77215
+PR0867,Mixer Grinder,Home Appliances,LG,31724
+PR0868,LED Lights,Decoration,Nike,3971
+PR0869,Saree,Clothing,Bajaj,2606
+PR0870,Refrigerator,Home Appliances,LG,35172
+PR0871,Refrigerator,Home Appliances,Prestige,8155
+PR0872,Mixer Grinder,Home Appliances,Boat,16307
+PR0873,Smart TV,Electronics,Puma,23052
+PR0874,Bluetooth Speaker,Electronics,Nike,35824
+PR0875,Smart TV,Electronics,Tata,62094
+PR0876,LED Lights,Decoration,Samsung,3405
+PR0877,Saree,Clothing,LG,3774
+PR0878,T-Shirt,Clothing,Nike,4442
+PR0879,Saree,Clothing,Prestige,3032
+PR0880,Microwave,Home Appliances,Puma,5014
+PR0881,Saree,Clothing,Nike,1832
+PR0882,Mixer Grinder,Home Appliances,Boat,14864
+PR0883,T-Shirt,Clothing,LG,3345
+PR0884,Bluetooth Speaker,Electronics,Puma,37361
+PR0885,LED Lights,Decoration,Boat,1429
+PR0886,Laptop,Electronics,Samsung,24889
+PR0887,Laptop,Electronics,LG,36956
+PR0888,Microwave,Home Appliances,Samsung,32182
+PR0889,Saree,Clothing,Boat,4206
+PR0890,T-Shirt,Clothing,LG,2633
+PR0891,Laptop,Electronics,Bajaj,75890
+PR0892,Laptop,Electronics,LG,78551
+PR0893,Rice Bag,Grocery,Nike,1417
+PR0894,Bluetooth Speaker,Electronics,LG,48261
+PR0895,Refrigerator,Home Appliances,Samsung,35417
+PR0896,Smart TV,Electronics,Philips,55211
+PR0897,Mixer Grinder,Home Appliances,Prestige,19967
+PR0898,T-Shirt,Clothing,Puma,2464
+PR0899,T-Shirt,Clothing,Samsung,2249
+PR0900,Laptop,Electronics,Puma,31005
+PR0901,T-Shirt,Clothing,Bajaj,3451
+PR0902,T-Shirt,Clothing,Sony,4336
+PR0903,Refrigerator,Home Appliances,Tata,24635
+PR0904,Saree,Clothing,Nike,3976
+PR0905,Smart TV,Electronics,LG,40924
+PR0906,Saree,Clothing,Tata,2903
+PR0907,Microwave,Home Appliances,Bajaj,20897
+PR0908,Saree,Clothing,Sony,1499
+PR0909,LED Lights,Decoration,Puma,6775
+PR0910,Mixer Grinder,Home Appliances,Puma,19126
+PR0911,Rice Bag,Grocery,Tata,2292
+PR0912,Bluetooth Speaker,Electronics,Philips,15065
+PR0913,Smart TV,Electronics,Puma,38446
+PR0914,Saree,Clothing,Prestige,2620
+PR0915,Rice Bag,Grocery,Tata,1465
+PR0916,Laptop,Electronics,Samsung,25722
+PR0917,LED Lights,Decoration,Philips,2302
+PR0918,T-Shirt,Clothing,Tata,3185
+PR0919,Mixer Grinder,Home Appliances,Tata,37142
+PR0920,LED Lights,Decoration,Sony,5869
+PR0921,Saree,Clothing,Samsung,3187
+PR0922,Rice Bag,Grocery,Sony,2623
+PR0923,Microwave,Home Appliances,LG,8951
+PR0924,Smart TV,Electronics,Tata,8426
+PR0925,T-Shirt,Clothing,Boat,3932
+PR0926,Refrigerator,Home Appliances,LG,5206
+PR0927,Refrigerator,Home Appliances,Nike,17828
+PR0928,Mixer Grinder,Home Appliances,Prestige,32255
+PR0929,Bluetooth Speaker,Electronics,Prestige,7050
+PR0930,Microwave,Home Appliances,Boat,32841
+PR0931,LED Lights,Decoration,Philips,6166
+PR0932,T-Shirt,Clothing,Boat,2611
+PR0933,Laptop,Electronics,Tata,57774
+PR0934,Smart TV,Electronics,Samsung,76307
+PR0935,Smart TV,Electronics,LG,51256
+PR0936,Laptop,Electronics,Bajaj,12319
+PR0937,LED Lights,Decoration,Sony,3974
+PR0938,LED Lights,Decoration,Philips,2005
+PR0939,Microwave,Home Appliances,Nike,29306
+PR0940,Microwave,Home Appliances,Bajaj,37853
+PR0941,Microwave,Home Appliances,Samsung,26344
+PR0942,Laptop,Electronics,Philips,37069
+PR0943,T-Shirt,Clothing,Boat,1945
+PR0944,Saree,Clothing,Sony,618
+PR0945,Saree,Clothing,Philips,3482
+PR0946,Microwave,Home Appliances,Nike,36556
+PR0947,Saree,Clothing,Tata,4269
+PR0948,Rice Bag,Grocery,Sony,259
+PR0949,Saree,Clothing,Prestige,1957
+PR0950,Mixer Grinder,Home Appliances,Samsung,28124
+PR0951,Refrigerator,Home Appliances,Boat,6159
+PR0952,Smart TV,Electronics,Nike,9222
+PR0953,Mixer Grinder,Home Appliances,Philips,3721
+PR0954,Bluetooth Speaker,Electronics,LG,21432
+PR0955,Refrigerator,Home Appliances,Samsung,7635
+PR0956,Microwave,Home Appliances,Bajaj,20412
+PR0957,T-Shirt,Clothing,Prestige,3538
+PR0958,Rice Bag,Grocery,LG,1620
+PR0959,Mixer Grinder,Home Appliances,Samsung,32504
+PR0960,Smart TV,Electronics,Sony,22338
+PR0961,Rice Bag,Grocery,Samsung,829
+PR0962,LED Lights,Decoration,Samsung,5423
+PR0963,T-Shirt,Clothing,LG,2441
+PR0964,LED Lights,Decoration,Boat,5673
+PR0965,Mixer Grinder,Home Appliances,Bajaj,28657
+PR0966,Refrigerator,Home Appliances,Bajaj,5667
+PR0967,Saree,Clothing,Prestige,3289
+PR0968,Laptop,Electronics,Samsung,38454
+PR0969,Saree,Clothing,Bajaj,3179
+PR0970,Bluetooth Speaker,Electronics,Boat,59355
+PR0971,Bluetooth Speaker,Electronics,Bajaj,61965
+PR0972,T-Shirt,Clothing,Philips,2959
+PR0973,Bluetooth Speaker,Electronics,Prestige,33705
+PR0974,Rice Bag,Grocery,Tata,2092
+PR0975,Microwave,Home Appliances,Boat,8230
+PR0976,Rice Bag,Grocery,Sony,349
+PR0977,Microwave,Home Appliances,Puma,23469
+PR0978,Bluetooth Speaker,Electronics,LG,56355
+PR0979,Saree,Clothing,Samsung,3995
+PR0980,LED Lights,Decoration,Philips,4686
+PR0981,Bluetooth Speaker,Electronics,Puma,21585
+PR0982,Bluetooth Speaker,Electronics,Bajaj,12490
+PR0983,Laptop,Electronics,Prestige,38699
+PR0984,Smart TV,Electronics,Nike,43894
+PR0985,LED Lights,Decoration,Bajaj,3261
+PR0986,Refrigerator,Home Appliances,Boat,9280
+PR0987,Rice Bag,Grocery,Puma,570
+PR0988,Bluetooth Speaker,Electronics,Boat,47201
+PR0989,Mixer Grinder,Home Appliances,Sony,28924
+PR0990,Laptop,Electronics,Puma,47116
+PR0991,Refrigerator,Home Appliances,Samsung,18592
+PR0992,Smart TV,Electronics,Bajaj,16093
+PR0993,Refrigerator,Home Appliances,Sony,34836
+PR0994,Saree,Clothing,Philips,1885
+PR0995,Mixer Grinder,Home Appliances,LG,17862
+PR0996,LED Lights,Decoration,Boat,5389
+PR0997,LED Lights,Decoration,LG,6235
+PR0998,Mixer Grinder,Home Appliances,Prestige,28627
+PR0999,Laptop,Electronics,LG,52834
+PR1000,Rice Bag,Grocery,Boat,2901

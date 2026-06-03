@@ -1,0 +1,501 @@
+Store_ID,City,State,Region,Store_Type
+ST001,Jaipur,Rajasthan,North,Local Retail
+ST002,Delhi,Delhi,North,Supermarket
+ST003,Delhi,Delhi,North,Supermarket
+ST004,Hyderabad,Telangana,South,Local Retail
+ST005,Kolkata,West Bengal,East,Supermarket
+ST006,Chennai,Tamil Nadu,South,Supermarket
+ST007,Kolkata,West Bengal,East,Supermarket
+ST008,Hyderabad,Telangana,South,Hypermarket
+ST009,Jaipur,Rajasthan,North,Local Retail
+ST010,Delhi,Delhi,North,Supermarket
+ST011,Kolkata,West Bengal,East,Hypermarket
+ST012,Delhi,Delhi,North,Supermarket
+ST013,Jaipur,Rajasthan,North,Local Retail
+ST014,Hyderabad,Telangana,South,Local Retail
+ST015,Lucknow,Uttar Pradesh,North,Hypermarket
+ST016,Jaipur,Rajasthan,North,Supermarket
+ST017,Kolkata,West Bengal,East,Local Retail
+ST018,Bangalore,Karnataka,South,Local Retail
+ST019,Hyderabad,Telangana,South,Supermarket
+ST020,Kolkata,West Bengal,East,Local Retail
+ST021,Hyderabad,Telangana,South,Hypermarket
+ST022,Delhi,Delhi,North,Hypermarket
+ST023,Delhi,Delhi,North,Local Retail
+ST024,Jaipur,Rajasthan,North,Hypermarket
+ST025,Jaipur,Rajasthan,North,Local Retail
+ST026,Delhi,Delhi,North,Supermarket
+ST027,Bangalore,Karnataka,South,Local Retail
+ST028,Bangalore,Karnataka,South,Local Retail
+ST029,Delhi,Delhi,North,Local Retail
+ST030,Hyderabad,Telangana,South,Local Retail
+ST031,Jaipur,Rajasthan,North,Hypermarket
+ST032,Mumbai,Maharashtra,West,Supermarket
+ST033,Mumbai,Maharashtra,West,Hypermarket
+ST034,Hyderabad,Telangana,South,Hypermarket
+ST035,Jaipur,Rajasthan,North,Local Retail
+ST036,Delhi,Delhi,North,Hypermarket
+ST037,Lucknow,Uttar Pradesh,North,Hypermarket
+ST038,Delhi,Delhi,North,Local Retail
+ST039,Bangalore,Karnataka,South,Supermarket
+ST040,Chennai,Tamil Nadu,South,Local Retail
+ST041,Bangalore,Karnataka,South,Supermarket
+ST042,Hyderabad,Telangana,South,Supermarket
+ST043,Chennai,Tamil Nadu,South,Local Retail
+ST044,Lucknow,Uttar Pradesh,North,Supermarket
+ST045,Mumbai,Maharashtra,West,Supermarket
+ST046,Bangalore,Karnataka,South,Hypermarket
+ST047,Hyderabad,Telangana,South,Hypermarket
+ST048,Bangalore,Karnataka,South,Hypermarket
+ST049,Mumbai,Maharashtra,West,Local Retail
+ST050,Kolkata,West Bengal,East,Supermarket
+ST051,Kolkata,West Bengal,East,Local Retail
+ST052,Lucknow,Uttar Pradesh,North,Hypermarket
+ST053,Mumbai,Maharashtra,West,Local Retail
+ST054,Delhi,Delhi,North,Hypermarket
+ST055,Lucknow,Uttar Pradesh,North,Supermarket
+ST056,Chennai,Tamil Nadu,South,Hypermarket
+ST057,Hyderabad,Telangana,South,Hypermarket
+ST058,Kolkata,West Bengal,East,Local Retail
+ST059,Jaipur,Rajasthan,North,Hypermarket
+ST060,Lucknow,Uttar Pradesh,North,Supermarket
+ST061,Lucknow,Uttar Pradesh,North,Local Retail
+ST062,Delhi,Delhi,North,Supermarket
+ST063,Delhi,Delhi,North,Local Retail
+ST064,Kolkata,West Bengal,East,Supermarket
+ST065,Jaipur,Rajasthan,North,Local Retail
+ST066,Jaipur,Rajasthan,North,Supermarket
+ST067,Delhi,Delhi,North,Local Retail
+ST068,Delhi,Delhi,North,Local Retail
+ST069,Chennai,Tamil Nadu,South,Local Retail
+ST070,Chennai,Tamil Nadu,South,Supermarket
+ST071,Jaipur,Rajasthan,North,Supermarket
+ST072,Lucknow,Uttar Pradesh,North,Hypermarket
+ST073,Delhi,Delhi,North,Hypermarket
+ST074,Kolkata,West Bengal,East,Supermarket
+ST075,Delhi,Delhi,North,Local Retail
+ST076,Bangalore,Karnataka,South,Local Retail
+ST077,Jaipur,Rajasthan,North,Hypermarket
+ST078,Lucknow,Uttar Pradesh,North,Hypermarket
+ST079,Chennai,Tamil Nadu,South,Hypermarket
+ST080,Lucknow,Uttar Pradesh,North,Hypermarket
+ST081,Lucknow,Uttar Pradesh,North,Hypermarket
+ST082,Bangalore,Karnataka,South,Hypermarket
+ST083,Hyderabad,Telangana,South,Supermarket
+ST084,Mumbai,Maharashtra,West,Local Retail
+ST085,Bangalore,Karnataka,South,Supermarket
+ST086,Hyderabad,Telangana,South,Local Retail
+ST087,Bangalore,Karnataka,South,Supermarket
+ST088,Lucknow,Uttar Pradesh,North,Local Retail
+ST089,Bangalore,Karnataka,South,Local Retail
+ST090,Hyderabad,Telangana,South,Local Retail
+ST091,Mumbai,Maharashtra,West,Hypermarket
+ST092,Bangalore,Karnataka,South,Hypermarket
+ST093,Jaipur,Rajasthan,North,Hypermarket
+ST094,Hyderabad,Telangana,South,Local Retail
+ST095,Jaipur,Rajasthan,North,Supermarket
+ST096,Hyderabad,Telangana,South,Local Retail
+ST097,Delhi,Delhi,North,Supermarket
+ST098,Bangalore,Karnataka,South,Supermarket
+ST099,Bangalore,Karnataka,South,Supermarket
+ST100,Chennai,Tamil Nadu,South,Hypermarket
+ST101,Lucknow,Uttar Pradesh,North,Local Retail
+ST102,Delhi,Delhi,North,Supermarket
+ST103,Mumbai,Maharashtra,West,Local Retail
+ST104,Bangalore,Karnataka,South,Hypermarket
+ST105,Jaipur,Rajasthan,North,Supermarket
+ST106,Mumbai,Maharashtra,West,Local Retail
+ST107,Delhi,Delhi,North,Local Retail
+ST108,Jaipur,Rajasthan,North,Supermarket
+ST109,Bangalore,Karnataka,South,Hypermarket
+ST110,Jaipur,Rajasthan,North,Hypermarket
+ST111,Kolkata,West Bengal,East,Supermarket
+ST112,Kolkata,West Bengal,East,Local Retail
+ST113,Kolkata,West Bengal,East,Hypermarket
+ST114,Jaipur,Rajasthan,North,Local Retail
+ST115,Hyderabad,Telangana,South,Local Retail
+ST116,Lucknow,Uttar Pradesh,North,Supermarket
+ST117,Mumbai,Maharashtra,West,Local Retail
+ST118,Mumbai,Maharashtra,West,Local Retail
+ST119,Kolkata,West Bengal,East,Hypermarket
+ST120,Bangalore,Karnataka,South,Local Retail
+ST121,Chennai,Tamil Nadu,South,Hypermarket
+ST122,Mumbai,Maharashtra,West,Supermarket
+ST123,Bangalore,Karnataka,South,Supermarket
+ST124,Delhi,Delhi,North,Local Retail
+ST125,Mumbai,Maharashtra,West,Supermarket
+ST126,Bangalore,Karnataka,South,Local Retail
+ST127,Lucknow,Uttar Pradesh,North,Hypermarket
+ST128,Kolkata,West Bengal,East,Local Retail
+ST129,Bangalore,Karnataka,South,Supermarket
+ST130,Hyderabad,Telangana,South,Local Retail
+ST131,Kolkata,West Bengal,East,Supermarket
+ST132,Delhi,Delhi,North,Local Retail
+ST133,Chennai,Tamil Nadu,South,Supermarket
+ST134,Bangalore,Karnataka,South,Local Retail
+ST135,Delhi,Delhi,North,Supermarket
+ST136,Jaipur,Rajasthan,North,Local Retail
+ST137,Delhi,Delhi,North,Local Retail
+ST138,Chennai,Tamil Nadu,South,Local Retail
+ST139,Kolkata,West Bengal,East,Hypermarket
+ST140,Mumbai,Maharashtra,West,Local Retail
+ST141,Mumbai,Maharashtra,West,Supermarket
+ST142,Lucknow,Uttar Pradesh,North,Supermarket
+ST143,Lucknow,Uttar Pradesh,North,Supermarket
+ST144,Mumbai,Maharashtra,West,Supermarket
+ST145,Chennai,Tamil Nadu,South,Supermarket
+ST146,Kolkata,West Bengal,East,Supermarket
+ST147,Kolkata,West Bengal,East,Hypermarket
+ST148,Hyderabad,Telangana,South,Hypermarket
+ST149,Kolkata,West Bengal,East,Hypermarket
+ST150,Chennai,Tamil Nadu,South,Local Retail
+ST151,Mumbai,Maharashtra,West,Supermarket
+ST152,Delhi,Delhi,North,Local Retail
+ST153,Bangalore,Karnataka,South,Hypermarket
+ST154,Kolkata,West Bengal,East,Supermarket
+ST155,Chennai,Tamil Nadu,South,Supermarket
+ST156,Kolkata,West Bengal,East,Supermarket
+ST157,Bangalore,Karnataka,South,Hypermarket
+ST158,Lucknow,Uttar Pradesh,North,Hypermarket
+ST159,Kolkata,West Bengal,East,Hypermarket
+ST160,Kolkata,West Bengal,East,Supermarket
+ST161,Hyderabad,Telangana,South,Local Retail
+ST162,Chennai,Tamil Nadu,South,Hypermarket
+ST163,Bangalore,Karnataka,South,Local Retail
+ST164,Mumbai,Maharashtra,West,Local Retail
+ST165,Bangalore,Karnataka,South,Hypermarket
+ST166,Delhi,Delhi,North,Hypermarket
+ST167,Mumbai,Maharashtra,West,Supermarket
+ST168,Jaipur,Rajasthan,North,Hypermarket
+ST169,Delhi,Delhi,North,Local Retail
+ST170,Delhi,Delhi,North,Supermarket
+ST171,Lucknow,Uttar Pradesh,North,Local Retail
+ST172,Lucknow,Uttar Pradesh,North,Supermarket
+ST173,Mumbai,Maharashtra,West,Hypermarket
+ST174,Delhi,Delhi,North,Hypermarket
+ST175,Bangalore,Karnataka,South,Hypermarket
+ST176,Jaipur,Rajasthan,North,Local Retail
+ST177,Jaipur,Rajasthan,North,Hypermarket
+ST178,Lucknow,Uttar Pradesh,North,Local Retail
+ST179,Hyderabad,Telangana,South,Supermarket
+ST180,Mumbai,Maharashtra,West,Hypermarket
+ST181,Jaipur,Rajasthan,North,Supermarket
+ST182,Hyderabad,Telangana,South,Hypermarket
+ST183,Chennai,Tamil Nadu,South,Hypermarket
+ST184,Chennai,Tamil Nadu,South,Local Retail
+ST185,Mumbai,Maharashtra,West,Hypermarket
+ST186,Chennai,Tamil Nadu,South,Local Retail
+ST187,Chennai,Tamil Nadu,South,Hypermarket
+ST188,Mumbai,Maharashtra,West,Local Retail
+ST189,Kolkata,West Bengal,East,Local Retail
+ST190,Bangalore,Karnataka,South,Hypermarket
+ST191,Mumbai,Maharashtra,West,Supermarket
+ST192,Hyderabad,Telangana,South,Hypermarket
+ST193,Hyderabad,Telangana,South,Supermarket
+ST194,Delhi,Delhi,North,Hypermarket
+ST195,Mumbai,Maharashtra,West,Hypermarket
+ST196,Delhi,Delhi,North,Supermarket
+ST197,Lucknow,Uttar Pradesh,North,Local Retail
+ST198,Hyderabad,Telangana,South,Supermarket
+ST199,Kolkata,West Bengal,East,Local Retail
+ST200,Chennai,Tamil Nadu,South,Local Retail
+ST201,Lucknow,Uttar Pradesh,North,Supermarket
+ST202,Kolkata,West Bengal,East,Hypermarket
+ST203,Delhi,Delhi,North,Supermarket
+ST204,Delhi,Delhi,North,Local Retail
+ST205,Chennai,Tamil Nadu,South,Local Retail
+ST206,Lucknow,Uttar Pradesh,North,Supermarket
+ST207,Kolkata,West Bengal,East,Hypermarket
+ST208,Mumbai,Maharashtra,West,Hypermarket
+ST209,Bangalore,Karnataka,South,Local Retail
+ST210,Delhi,Delhi,North,Local Retail
+ST211,Delhi,Delhi,North,Local Retail
+ST212,Delhi,Delhi,North,Supermarket
+ST213,Mumbai,Maharashtra,West,Local Retail
+ST214,Bangalore,Karnataka,South,Hypermarket
+ST215,Delhi,Delhi,North,Local Retail
+ST216,Bangalore,Karnataka,South,Local Retail
+ST217,Hyderabad,Telangana,South,Hypermarket
+ST218,Lucknow,Uttar Pradesh,North,Hypermarket
+ST219,Delhi,Delhi,North,Hypermarket
+ST220,Hyderabad,Telangana,South,Supermarket
+ST221,Jaipur,Rajasthan,North,Local Retail
+ST222,Jaipur,Rajasthan,North,Hypermarket
+ST223,Jaipur,Rajasthan,North,Hypermarket
+ST224,Delhi,Delhi,North,Hypermarket
+ST225,Jaipur,Rajasthan,North,Hypermarket
+ST226,Bangalore,Karnataka,South,Supermarket
+ST227,Delhi,Delhi,North,Hypermarket
+ST228,Bangalore,Karnataka,South,Local Retail
+ST229,Delhi,Delhi,North,Supermarket
+ST230,Hyderabad,Telangana,South,Supermarket
+ST231,Kolkata,West Bengal,East,Local Retail
+ST232,Lucknow,Uttar Pradesh,North,Supermarket
+ST233,Lucknow,Uttar Pradesh,North,Local Retail
+ST234,Mumbai,Maharashtra,West,Hypermarket
+ST235,Delhi,Delhi,North,Supermarket
+ST236,Mumbai,Maharashtra,West,Supermarket
+ST237,Hyderabad,Telangana,South,Local Retail
+ST238,Hyderabad,Telangana,South,Hypermarket
+ST239,Kolkata,West Bengal,East,Local Retail
+ST240,Chennai,Tamil Nadu,South,Supermarket
+ST241,Delhi,Delhi,North,Local Retail
+ST242,Jaipur,Rajasthan,North,Supermarket
+ST243,Chennai,Tamil Nadu,South,Local Retail
+ST244,Kolkata,West Bengal,East,Supermarket
+ST245,Bangalore,Karnataka,South,Hypermarket
+ST246,Kolkata,West Bengal,East,Local Retail
+ST247,Lucknow,Uttar Pradesh,North,Hypermarket
+ST248,Delhi,Delhi,North,Hypermarket
+ST249,Lucknow,Uttar Pradesh,North,Hypermarket
+ST250,Kolkata,West Bengal,East,Local Retail
+ST251,Chennai,Tamil Nadu,South,Local Retail
+ST252,Lucknow,Uttar Pradesh,North,Local Retail
+ST253,Lucknow,Uttar Pradesh,North,Local Retail
+ST254,Lucknow,Uttar Pradesh,North,Hypermarket
+ST255,Jaipur,Rajasthan,North,Hypermarket
+ST256,Hyderabad,Telangana,South,Hypermarket
+ST257,Bangalore,Karnataka,South,Supermarket
+ST258,Mumbai,Maharashtra,West,Supermarket
+ST259,Jaipur,Rajasthan,North,Hypermarket
+ST260,Jaipur,Rajasthan,North,Local Retail
+ST261,Chennai,Tamil Nadu,South,Hypermarket
+ST262,Jaipur,Rajasthan,North,Hypermarket
+ST263,Chennai,Tamil Nadu,South,Local Retail
+ST264,Delhi,Delhi,North,Supermarket
+ST265,Jaipur,Rajasthan,North,Hypermarket
+ST266,Delhi,Delhi,North,Supermarket
+ST267,Lucknow,Uttar Pradesh,North,Supermarket
+ST268,Lucknow,Uttar Pradesh,North,Local Retail
+ST269,Lucknow,Uttar Pradesh,North,Local Retail
+ST270,Bangalore,Karnataka,South,Supermarket
+ST271,Lucknow,Uttar Pradesh,North,Supermarket
+ST272,Hyderabad,Telangana,South,Local Retail
+ST273,Lucknow,Uttar Pradesh,North,Local Retail
+ST274,Delhi,Delhi,North,Supermarket
+ST275,Hyderabad,Telangana,South,Supermarket
+ST276,Hyderabad,Telangana,South,Supermarket
+ST277,Jaipur,Rajasthan,North,Local Retail
+ST278,Bangalore,Karnataka,South,Local Retail
+ST279,Kolkata,West Bengal,East,Local Retail
+ST280,Lucknow,Uttar Pradesh,North,Local Retail
+ST281,Bangalore,Karnataka,South,Supermarket
+ST282,Hyderabad,Telangana,South,Local Retail
+ST283,Jaipur,Rajasthan,North,Hypermarket
+ST284,Jaipur,Rajasthan,North,Local Retail
+ST285,Hyderabad,Telangana,South,Supermarket
+ST286,Lucknow,Uttar Pradesh,North,Local Retail
+ST287,Hyderabad,Telangana,South,Local Retail
+ST288,Lucknow,Uttar Pradesh,North,Local Retail
+ST289,Chennai,Tamil Nadu,South,Local Retail
+ST290,Kolkata,West Bengal,East,Hypermarket
+ST291,Chennai,Tamil Nadu,South,Hypermarket
+ST292,Delhi,Delhi,North,Hypermarket
+ST293,Kolkata,West Bengal,East,Supermarket
+ST294,Chennai,Tamil Nadu,South,Supermarket
+ST295,Kolkata,West Bengal,East,Hypermarket
+ST296,Jaipur,Rajasthan,North,Local Retail
+ST297,Hyderabad,Telangana,South,Hypermarket
+ST298,Lucknow,Uttar Pradesh,North,Supermarket
+ST299,Hyderabad,Telangana,South,Supermarket
+ST300,Lucknow,Uttar Pradesh,North,Hypermarket
+ST301,Delhi,Delhi,North,Local Retail
+ST302,Lucknow,Uttar Pradesh,North,Supermarket
+ST303,Mumbai,Maharashtra,West,Hypermarket
+ST304,Kolkata,West Bengal,East,Supermarket
+ST305,Mumbai,Maharashtra,West,Supermarket
+ST306,Lucknow,Uttar Pradesh,North,Local Retail
+ST307,Kolkata,West Bengal,East,Supermarket
+ST308,Bangalore,Karnataka,South,Local Retail
+ST309,Mumbai,Maharashtra,West,Hypermarket
+ST310,Hyderabad,Telangana,South,Supermarket
+ST311,Lucknow,Uttar Pradesh,North,Supermarket
+ST312,Delhi,Delhi,North,Supermarket
+ST313,Lucknow,Uttar Pradesh,North,Supermarket
+ST314,Chennai,Tamil Nadu,South,Local Retail
+ST315,Hyderabad,Telangana,South,Local Retail
+ST316,Chennai,Tamil Nadu,South,Local Retail
+ST317,Jaipur,Rajasthan,North,Local Retail
+ST318,Kolkata,West Bengal,East,Hypermarket
+ST319,Chennai,Tamil Nadu,South,Local Retail
+ST320,Mumbai,Maharashtra,West,Hypermarket
+ST321,Hyderabad,Telangana,South,Local Retail
+ST322,Mumbai,Maharashtra,West,Hypermarket
+ST323,Kolkata,West Bengal,East,Supermarket
+ST324,Jaipur,Rajasthan,North,Supermarket
+ST325,Chennai,Tamil Nadu,South,Local Retail
+ST326,Kolkata,West Bengal,East,Local Retail
+ST327,Delhi,Delhi,North,Local Retail
+ST328,Mumbai,Maharashtra,West,Local Retail
+ST329,Bangalore,Karnataka,South,Hypermarket
+ST330,Chennai,Tamil Nadu,South,Hypermarket
+ST331,Mumbai,Maharashtra,West,Local Retail
+ST332,Bangalore,Karnataka,South,Hypermarket
+ST333,Hyderabad,Telangana,South,Local Retail
+ST334,Mumbai,Maharashtra,West,Local Retail
+ST335,Bangalore,Karnataka,South,Hypermarket
+ST336,Chennai,Tamil Nadu,South,Hypermarket
+ST337,Hyderabad,Telangana,South,Local Retail
+ST338,Mumbai,Maharashtra,West,Local Retail
+ST339,Lucknow,Uttar Pradesh,North,Supermarket
+ST340,Hyderabad,Telangana,South,Local Retail
+ST341,Jaipur,Rajasthan,North,Supermarket
+ST342,Bangalore,Karnataka,South,Local Retail
+ST343,Jaipur,Rajasthan,North,Hypermarket
+ST344,Bangalore,Karnataka,South,Supermarket
+ST345,Lucknow,Uttar Pradesh,North,Local Retail
+ST346,Hyderabad,Telangana,South,Hypermarket
+ST347,Bangalore,Karnataka,South,Supermarket
+ST348,Delhi,Delhi,North,Local Retail
+ST349,Hyderabad,Telangana,South,Local Retail
+ST350,Kolkata,West Bengal,East,Supermarket
+ST351,Kolkata,West Bengal,East,Local Retail
+ST352,Hyderabad,Telangana,South,Local Retail
+ST353,Kolkata,West Bengal,East,Hypermarket
+ST354,Lucknow,Uttar Pradesh,North,Local Retail
+ST355,Lucknow,Uttar Pradesh,North,Supermarket
+ST356,Delhi,Delhi,North,Local Retail
+ST357,Delhi,Delhi,North,Local Retail
+ST358,Jaipur,Rajasthan,North,Supermarket
+ST359,Lucknow,Uttar Pradesh,North,Hypermarket
+ST360,Bangalore,Karnataka,South,Hypermarket
+ST361,Hyderabad,Telangana,South,Hypermarket
+ST362,Mumbai,Maharashtra,West,Hypermarket
+ST363,Chennai,Tamil Nadu,South,Hypermarket
+ST364,Jaipur,Rajasthan,North,Local Retail
+ST365,Chennai,Tamil Nadu,South,Local Retail
+ST366,Chennai,Tamil Nadu,South,Local Retail
+ST367,Mumbai,Maharashtra,West,Supermarket
+ST368,Hyderabad,Telangana,South,Local Retail
+ST369,Kolkata,West Bengal,East,Local Retail
+ST370,Lucknow,Uttar Pradesh,North,Local Retail
+ST371,Bangalore,Karnataka,South,Supermarket
+ST372,Delhi,Delhi,North,Hypermarket
+ST373,Kolkata,West Bengal,East,Hypermarket
+ST374,Kolkata,West Bengal,East,Local Retail
+ST375,Bangalore,Karnataka,South,Hypermarket
+ST376,Bangalore,Karnataka,South,Local Retail
+ST377,Mumbai,Maharashtra,West,Supermarket
+ST378,Mumbai,Maharashtra,West,Supermarket
+ST379,Delhi,Delhi,North,Local Retail
+ST380,Hyderabad,Telangana,South,Supermarket
+ST381,Kolkata,West Bengal,East,Local Retail
+ST382,Bangalore,Karnataka,South,Local Retail
+ST383,Chennai,Tamil Nadu,South,Local Retail
+ST384,Chennai,Tamil Nadu,South,Supermarket
+ST385,Jaipur,Rajasthan,North,Hypermarket
+ST386,Delhi,Delhi,North,Local Retail
+ST387,Chennai,Tamil Nadu,South,Local Retail
+ST388,Chennai,Tamil Nadu,South,Local Retail
+ST389,Lucknow,Uttar Pradesh,North,Hypermarket
+ST390,Mumbai,Maharashtra,West,Supermarket
+ST391,Bangalore,Karnataka,South,Local Retail
+ST392,Bangalore,Karnataka,South,Hypermarket
+ST393,Lucknow,Uttar Pradesh,North,Hypermarket
+ST394,Bangalore,Karnataka,South,Supermarket
+ST395,Delhi,Delhi,North,Local Retail
+ST396,Kolkata,West Bengal,East,Local Retail
+ST397,Hyderabad,Telangana,South,Hypermarket
+ST398,Chennai,Tamil Nadu,South,Supermarket
+ST399,Bangalore,Karnataka,South,Hypermarket
+ST400,Hyderabad,Telangana,South,Local Retail
+ST401,Mumbai,Maharashtra,West,Supermarket
+ST402,Bangalore,Karnataka,South,Local Retail
+ST403,Chennai,Tamil Nadu,South,Supermarket
+ST404,Kolkata,West Bengal,East,Local Retail
+ST405,Kolkata,West Bengal,East,Local Retail
+ST406,Kolkata,West Bengal,East,Supermarket
+ST407,Jaipur,Rajasthan,North,Supermarket
+ST408,Mumbai,Maharashtra,West,Local Retail
+ST409,Hyderabad,Telangana,South,Hypermarket
+ST410,Mumbai,Maharashtra,West,Local Retail
+ST411,Kolkata,West Bengal,East,Local Retail
+ST412,Chennai,Tamil Nadu,South,Local Retail
+ST413,Delhi,Delhi,North,Hypermarket
+ST414,Hyderabad,Telangana,South,Supermarket
+ST415,Kolkata,West Bengal,East,Hypermarket
+ST416,Chennai,Tamil Nadu,South,Hypermarket
+ST417,Mumbai,Maharashtra,West,Supermarket
+ST418,Delhi,Delhi,North,Hypermarket
+ST419,Lucknow,Uttar Pradesh,North,Hypermarket
+ST420,Bangalore,Karnataka,South,Supermarket
+ST421,Chennai,Tamil Nadu,South,Local Retail
+ST422,Kolkata,West Bengal,East,Local Retail
+ST423,Chennai,Tamil Nadu,South,Local Retail
+ST424,Chennai,Tamil Nadu,South,Hypermarket
+ST425,Lucknow,Uttar Pradesh,North,Supermarket
+ST426,Kolkata,West Bengal,East,Local Retail
+ST427,Lucknow,Uttar Pradesh,North,Supermarket
+ST428,Lucknow,Uttar Pradesh,North,Supermarket
+ST429,Chennai,Tamil Nadu,South,Hypermarket
+ST430,Bangalore,Karnataka,South,Hypermarket
+ST431,Bangalore,Karnataka,South,Hypermarket
+ST432,Lucknow,Uttar Pradesh,North,Supermarket
+ST433,Chennai,Tamil Nadu,South,Hypermarket
+ST434,Mumbai,Maharashtra,West,Local Retail
+ST435,Jaipur,Rajasthan,North,Local Retail
+ST436,Lucknow,Uttar Pradesh,North,Supermarket
+ST437,Hyderabad,Telangana,South,Local Retail
+ST438,Chennai,Tamil Nadu,South,Local Retail
+ST439,Jaipur,Rajasthan,North,Local Retail
+ST440,Kolkata,West Bengal,East,Hypermarket
+ST441,Kolkata,West Bengal,East,Hypermarket
+ST442,Hyderabad,Telangana,South,Hypermarket
+ST443,Bangalore,Karnataka,South,Hypermarket
+ST444,Kolkata,West Bengal,East,Local Retail
+ST445,Mumbai,Maharashtra,West,Local Retail
+ST446,Lucknow,Uttar Pradesh,North,Supermarket
+ST447,Mumbai,Maharashtra,West,Supermarket
+ST448,Mumbai,Maharashtra,West,Hypermarket
+ST449,Lucknow,Uttar Pradesh,North,Supermarket
+ST450,Kolkata,West Bengal,East,Hypermarket
+ST451,Lucknow,Uttar Pradesh,North,Local Retail
+ST452,Hyderabad,Telangana,South,Supermarket
+ST453,Jaipur,Rajasthan,North,Local Retail
+ST454,Kolkata,West Bengal,East,Local Retail
+ST455,Kolkata,West Bengal,East,Hypermarket
+ST456,Lucknow,Uttar Pradesh,North,Local Retail
+ST457,Hyderabad,Telangana,South,Supermarket
+ST458,Mumbai,Maharashtra,West,Local Retail
+ST459,Kolkata,West Bengal,East,Supermarket
+ST460,Mumbai,Maharashtra,West,Supermarket
+ST461,Chennai,Tamil Nadu,South,Hypermarket
+ST462,Delhi,Delhi,North,Local Retail
+ST463,Lucknow,Uttar Pradesh,North,Hypermarket
+ST464,Kolkata,West Bengal,East,Supermarket
+ST465,Mumbai,Maharashtra,West,Local Retail
+ST466,Kolkata,West Bengal,East,Supermarket
+ST467,Bangalore,Karnataka,South,Hypermarket
+ST468,Lucknow,Uttar Pradesh,North,Local Retail
+ST469,Kolkata,West Bengal,East,Local Retail
+ST470,Jaipur,Rajasthan,North,Supermarket
+ST471,Lucknow,Uttar Pradesh,North,Hypermarket
+ST472,Kolkata,West Bengal,East,Local Retail
+ST473,Chennai,Tamil Nadu,South,Supermarket
+ST474,Delhi,Delhi,North,Hypermarket
+ST475,Mumbai,Maharashtra,West,Hypermarket
+ST476,Chennai,Tamil Nadu,South,Supermarket
+ST477,Jaipur,Rajasthan,North,Supermarket
+ST478,Delhi,Delhi,North,Hypermarket
+ST479,Bangalore,Karnataka,South,Hypermarket
+ST480,Bangalore,Karnataka,South,Hypermarket
+ST481,Mumbai,Maharashtra,West,Hypermarket
+ST482,Jaipur,Rajasthan,North,Supermarket
+ST483,Lucknow,Uttar Pradesh,North,Local Retail
+ST484,Jaipur,Rajasthan,North,Local Retail
+ST485,Chennai,Tamil Nadu,South,Hypermarket
+ST486,Hyderabad,Telangana,South,Hypermarket
+ST487,Delhi,Delhi,North,Local Retail
+ST488,Hyderabad,Telangana,South,Hypermarket
+ST489,Mumbai,Maharashtra,West,Local Retail
+ST490,Bangalore,Karnataka,South,Local Retail
+ST491,Jaipur,Rajasthan,North,Supermarket
+ST492,Mumbai,Maharashtra,West,Hypermarket
+ST493,Delhi,Delhi,North,Hypermarket
+ST494,Jaipur,Rajasthan,North,Hypermarket
+ST495,Hyderabad,Telangana,South,Hypermarket
+ST496,Hyderabad,Telangana,South,Local Retail
+ST497,Mumbai,Maharashtra,West,Hypermarket
+ST498,Jaipur,Rajasthan,North,Hypermarket
+ST499,Hyderabad,Telangana,South,Hypermarket
+ST500,Chennai,Tamil Nadu,South,Supermarket
