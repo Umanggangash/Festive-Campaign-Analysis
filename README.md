@@ -5,7 +5,11 @@
 The **Festive Campaign Analysis Dashboard** is a data analytics project that evaluates the performance of major Indian festive campaigns across retail stores. Using SQL for data analysis and Power BI for visualization, the dashboard provides insights into sales performance, customer purchasing behavior, product demand, and regional trends.
 
 The goal of this project is to demonstrate practical data analytics skills including data cleaning, SQL querying, business intelligence reporting, and dashboard creation.
+## 📷 Dashboard Preview
 
+### Executive Dashboard
+
+(![Executive Dashboard](executive_dashboard.png))
 ---
 
 ## 🎯 Business Problem
@@ -213,14 +217,6 @@ ORDER BY Revenue DESC;
 7. Developed interactive dashboards
 8. Generated business insights and recommendations
 9. Published dashboard using Power BI Service
-
----
-
-## 📷 Dashboard Preview
-
-### Executive Dashboard
-
-(![Executive Dashboard](executive_dashboard.png))
 
 
 ---
